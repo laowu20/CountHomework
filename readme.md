@@ -9,4 +9,5 @@ exap2:	将“example2”拖到“get_homework_check_example2.bat”上，项目�
 该脚本在win10系统python3.7(64bit)环境下测试通过。
 ### 注意事项
 1.学号表.xlsl”为学生学号列表，使用时要配置。
+
 2.python需要安装xlrd和xlwt包。
